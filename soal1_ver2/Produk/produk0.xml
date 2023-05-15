@@ -1,0 +1,6 @@
+<produk>
+    <namaProduk val="Buku The Art of Wars - Sun Tzu" />
+    <tipeProduk val="Buku" />
+    
+    <variasiProduk warna="-" ukuran="-" harga="50000" stok="12"/>
+</produk>

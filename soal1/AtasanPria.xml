@@ -1,0 +1,11 @@
+<atasanPria>
+
+    <namaProduk>Kemeja</namaProduk>
+    <hargaProduk>50000</hargaProduk>
+    
+    <stokProduk warna="merah" stok="12" ukuran="L"/>
+    <stokProduk warna="putih" stok="5" ukuran="XL"/>
+    <stokProduk warna="hitam" stok="10" ukuran="M"/>
+
+</atasanPria>
+

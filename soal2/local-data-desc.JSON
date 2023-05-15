@@ -1,0 +1,10 @@
+{
+    "isMarried" : "Married to his / her partner.",
+    "isNotMarried" : "His / her partner still waiting for the proposal.",
+    "isAlive" : "Living and walking on earth.",
+    "isNotAlive" : "Rest in peace, may god bless him / her.",
+    "isEmployed" : "He / She is working.",
+    "isNotEmployed" : "Unemployed or retired from career.",
+    "isYoung" : "Young and spiritful person.",
+    "isNotYoung" : "Not productive aging old man / woman"
+}

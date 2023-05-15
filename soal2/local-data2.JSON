@@ -1,0 +1,19 @@
+{
+    "fullname"      : "Albert Einstein",
+    "country"       : "Germany",
+    "age"           : 76,
+
+    "contact-info"  : {
+        "phone" : "1526262313",
+        "instagram" : "-",
+        "email" : "alberteinstein@fake.com"
+    },
+
+    "status"        : {
+        "isMarried" : true,
+        "isAlive" : false,
+        "isEmployed" : false
+    }
+    
+
+}

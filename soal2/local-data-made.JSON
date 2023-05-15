@@ -1,0 +1,17 @@
+{
+    "fullname"      : "Novandy Asardi",
+    "country"       : "Indonesia",
+    "age"           : 20,
+
+    "contact-info"  : {
+        "phone" : "0888888422",
+        "instagram" : "@imadenovandy",
+        "email" : "made@gmail.com"},
+    "status"        : {
+        "isMarried" : true,
+        "isAlive" : true,
+        "isEmployed" : true
+    }
+    
+
+}

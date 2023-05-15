@@ -1,0 +1,19 @@
+{
+    "fullname"      : "Farhan Fadillah Harahap",
+    "country"       : "Indonesia",
+    "age"           : 19,
+
+    "contact-info"  : {
+        "phone" : "085120691820",
+        "instagram" : "farhanharahap20",
+        "email" : "farhanharahap@fake.com"
+    },
+
+    "status"        : {
+        "isMarried" : false,
+        "isAlive" : true,
+        "isEmployed" : true
+    }
+    
+
+}

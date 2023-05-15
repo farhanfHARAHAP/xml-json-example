@@ -1,0 +1,8 @@
+<?xml version="1.0" ?><produk>
+    <namaProduk val="Tshirt Bagus Karya Anak Bangsa Polos"/>
+    <tipeProduk val="Fashion"/>
+    
+    <variasiProduk warna="Hitam" ukuran="L" harga="53000" stok="12"/>
+    <variasiProduk warna="Hitam" ukuran="XL" harga="62000" stok="15"/>
+    <variasiProduk warna="Merah" ukuran="L" harga="53000" stok="8"/>
+</produk>
